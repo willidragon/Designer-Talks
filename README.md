@@ -2,4 +2,4 @@
  
 
 
-<fortyPX> : FORTY PIXELS! AND IT's WONDERFUL!!!
+< fortyPX > : FORTY PIXELS! AND IT's WONDERFUL !!!
